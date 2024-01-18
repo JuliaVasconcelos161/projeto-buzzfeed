@@ -1,27 +1,21 @@
 # ProjetoBuzzfeed
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.9.
+Projeto realizado para o desafio "Criando um Clone do BuzzFeed com Angular", da DIO, ministrado pelo professor [Felipe Aguiar](https://github.com/felipeAguiarCode), no qual são exibidas perguntas para que o usuário responda e ao final é exibida a resposta do quiz, baseado em suas respostas, se o usuário é Herói ou Vilão.
 
-## Development server
+##### [GitHub com projeto original](https://github.com/felipeAguiarCode/angular-buzzfeed-quizz-clone)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### Tecnologias
+- TypeScript
+- Angular
 
-## Code scaffolding
+### Imagens
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+##### Tela de Perguntas
 
-## Build
+![image](https://github.com/JuliaVasconcelos161/projeto-buzzfeed/assets/94846502/d1009359-d148-4fa1-9658-e5e0e485fd4d)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+##### Tela com Resposta do Quiz
 
-## Running unit tests
+![image](https://github.com/JuliaVasconcelos161/projeto-buzzfeed/assets/94846502/05afa165-bb9d-40c6-a160-074d0090c6ad)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
